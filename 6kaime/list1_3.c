@@ -1,5 +1,0 @@
-#include <stdio.h>
-int main(void) {
-   printf("15と37の和は\dです。", 15+37);
-   return 0;
-}
