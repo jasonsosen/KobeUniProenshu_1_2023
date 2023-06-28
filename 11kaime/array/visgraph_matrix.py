@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 # visgraph_matrix.py
 import numpy as np
 import networkx as nx
