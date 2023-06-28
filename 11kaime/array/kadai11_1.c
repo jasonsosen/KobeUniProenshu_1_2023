@@ -9,7 +9,7 @@ calcDistance(int x1, int y1, int x2, int y2) {
 }
 
 int main() {
-    int N = 6; //点の数
+    int N = 10; //点の数
     int points[N][ ]; // 座標を格納する三次元配列
     int A[N][N]; // 隣接行列を表す二次元配列
     double d; // 2点間距離を格納する変数
