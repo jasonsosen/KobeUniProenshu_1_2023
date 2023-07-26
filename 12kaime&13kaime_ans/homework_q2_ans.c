@@ -23,7 +23,7 @@ double calc_avg_score(int scores[], int n){
     average=(double) total/n;
     // '(double)total / n'とは、totalをdouble型にキャストしてからnで割ることで、
     // 結果は浮動小数点数（double型）になることを意味します。
-    return average;// 成績の合計を生徒の数で割る
+    return average;
                               
 }
 
